@@ -1,7 +1,7 @@
 ### Sales Data Analysis
 
 > Created By **Israel Daniel**
-> As part of my Internship project with MeriSKILL
+> as part of my Internship project with MeriSKILL
 
 > **Purpose:** Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
